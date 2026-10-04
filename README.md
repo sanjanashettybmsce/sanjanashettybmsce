@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sanjana Shetty 👋
 
-<!--
-**sanjanashettybmsce/sanjanashettybmsce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in **AI/ML, Data Science, and Full-stack development**.
 
-Here are some ideas to get you started:
+## 📌 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AgrajaBot
+A multilingual companion app combining speech-based dementia screening with an AI chatbot.
+
+### BillBear
+A smart bill-splitting application that uses OCR to extract receipt items and fairly divide expenses.
+
+## 💻 Other Work
+
+- IssuePilot — AI-powered GitHub issue analysis
+- CLIP-MTL — Multimodal multi-task learning using CLIP
+- Multilevel IVR System
+- Machine Learning projects
+- Data Structures & Algorithms
+- Database Systems
+
+
+## 🛠️ Tech Stack
+
+Python · C++ · Java · SQL · JavaScript · Flask · FastAPI · Git
